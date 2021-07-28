@@ -1,0 +1,10 @@
+./
+../
+arrays*
+logfile*
+logfile1.txt
+./
+../
+arrays*
+logfile*
+logfile1.txt
