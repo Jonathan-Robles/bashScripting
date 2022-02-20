@@ -1,4 +1,5 @@
 
+
  NAME="john"
  LASTNAME="doe"
 
@@ -6,3 +7,7 @@
  echo "${LASTNAME}"
  echo $NAME $LASTNAME
  echo ${NAME} ${LASTNAME}
+
+ echo "Enter your name :"
+ read NAME
+ echo $NAME
