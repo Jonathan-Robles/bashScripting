@@ -2,7 +2,7 @@
 
 sql_host="localhost"
 sql_user="root" 
-sql_password="Abc123**"
+sql_password=""
 sql_database="bussines"
 
 mysqld 
